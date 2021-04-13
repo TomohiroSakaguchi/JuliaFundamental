@@ -3,7 +3,7 @@
 
 **Environment**
 
--Using editor is Jupyter notebook, so all file is ***.ipyeb.
+-Using editor is Jupyter notebook, so all file is ***.ipynb.
 
 -Julia ver. is 1.5.4.
 
