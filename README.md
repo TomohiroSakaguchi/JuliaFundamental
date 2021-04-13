@@ -3,10 +3,12 @@
 
 **Environment**
 
--Using editor is Jupyter notebook.
+-Using editor is Jupyter notebook, so all file is ***.ipyeb.
+
 -Julia ver. is 1.5.4.
 
 **Reference**
 
 -Introduction to Julia (for programmers)
+
 -https://juliaacademy.com/courses/enrolled/375479
